@@ -1,4 +1,4 @@
 class StringManager {
   //Title App
-  static const titleApp = "Select";
+  static const titleApp = "Debaghy";
 }

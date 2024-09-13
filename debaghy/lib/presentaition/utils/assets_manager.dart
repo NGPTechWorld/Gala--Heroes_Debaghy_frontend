@@ -4,10 +4,9 @@ class AssetsManager {
   static const imagesPath = 'assets/images';
 
   /// Images
-  static const waveImage = '$imagesPath/wave.svg';
+  static const iconeAppImage = '$imagesPath/debaghy_icon.png';
 
   /// Icons
   /// Fonst
   /// Lottie
-  static const splashLottie = '$lottiePath/splash_lottie.json';
 }
