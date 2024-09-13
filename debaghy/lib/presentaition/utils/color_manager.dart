@@ -15,6 +15,7 @@ class ColorManager {
   static const Color primary6Color = Color(0xff354349);
   static const Color primary7Color = Color(0xff1B262E);
   static const Color whiteColor = Color(0xffFFFFFF);
+  static const Color grayColor = Color(0xffD9D9D9);
   static const Color blackColor = Color(0xff000000);
   static const Color transparentColor = Colors.transparent;
   //Action Colors

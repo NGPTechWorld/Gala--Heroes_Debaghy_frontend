@@ -4,5 +4,7 @@ import 'package:flutter/material.dart';
 class ThemeManager {
   static final ThemeData appTheme = ThemeData(
     primaryColor: ColorManager.firstColor,
+    focusColor: ColorManager.firstColor,
+    hoverColor: ColorManager.firstColor,
   );
 }

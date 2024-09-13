@@ -1,7 +1,9 @@
 import 'package:debaghy/presentaition/custom_widgets/app_icon_wigdet.dart';
+import 'package:debaghy/presentaition/pages/signup_page/signup_page.dart';
 import 'package:debaghy/presentaition/utils/color_manager.dart';
 import 'package:debaghy/presentaition/utils/values_manager.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class StartPage extends StatefulWidget {
   const StartPage({super.key});
@@ -11,6 +13,14 @@ class StartPage extends StatefulWidget {
 }
 
 class _StartPageState extends State<StartPage> {
+  @override
+  void initState() {
+    super.initState();
+    Future.delayed(const Duration(seconds: 3), () {
+      Get.offAll(() => const SignupPage());
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
