@@ -13,4 +13,10 @@ class StringManager {
   static const confirmPassword = "Confirm Password";
   static const signupSuccess = "Signup success";
   static const signupFailed = "Signup failed";
+  //Email Verification Page
+  static const emailVerification = "Verification";
+  static const emailVerificationDetails = "Enter the code sent number";
+  static const sentText = "Sent";
+  static const dontreceviecode = "Dont receive code";
+  static const resent = "Resent";
 }

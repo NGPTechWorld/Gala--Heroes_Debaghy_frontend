@@ -4,9 +4,9 @@ import 'package:debaghy/presentaition/utils/values_manager.dart';
 import 'package:flutter/material.dart';
 
 class BottouCustom extends StatelessWidget {
-  Function function;
-  String text;
-  BottouCustom({super.key, required this.function, required this.text});
+  final Function function;
+  final String text;
+  const BottouCustom({super.key, required this.function, required this.text});
 
   @override
   Widget build(BuildContext context) {
