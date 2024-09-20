@@ -1,11 +1,11 @@
+import 'package:debaghy/app/config/color_manager.dart';
+import 'package:debaghy/app/config/string_manager.dart';
+import 'package:debaghy/app/config/style_manager.dart';
+import 'package:debaghy/app/config/values_manager.dart';
 import 'package:debaghy/presentaition/custom_widgets/app_icon_wigdet.dart';
 import 'package:debaghy/presentaition/custom_widgets/bottun_custom.dart';
 import 'package:debaghy/presentaition/custom_widgets/text_field_custom.dart';
-import 'package:debaghy/presentaition/pages/signup_page/email_verification_page/email_verification_page.dart';
-import 'package:debaghy/presentaition/utils/color_manager.dart';
-import 'package:debaghy/presentaition/utils/string_manager.dart';
-import 'package:debaghy/presentaition/utils/style_manager.dart';
-import 'package:debaghy/presentaition/utils/values_manager.dart';
+import 'package:debaghy/presentaition/pages/email_verification_page/email_verification_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

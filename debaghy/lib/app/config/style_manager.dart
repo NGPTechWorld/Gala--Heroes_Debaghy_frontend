@@ -1,6 +1,6 @@
-import 'package:debaghy/presentaition/utils/color_manager.dart';
-import 'package:debaghy/presentaition/utils/values_manager.dart';
 import 'package:flutter/material.dart';
+import '../../app/config/color_manager.dart';
+import '../../app/config/values_manager.dart';
 
 class StyleManager {
   //Fonts

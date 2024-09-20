@@ -1,8 +1,8 @@
-import 'package:debaghy/presentaition/utils/assets_manager.dart';
-import 'package:debaghy/presentaition/utils/color_manager.dart';
-import 'package:debaghy/presentaition/utils/string_manager.dart';
-import 'package:debaghy/presentaition/utils/style_manager.dart';
-import 'package:debaghy/presentaition/utils/values_manager.dart';
+import 'package:debaghy/app/config/assets_manager.dart';
+import 'package:debaghy/app/config/color_manager.dart';
+import 'package:debaghy/app/config/string_manager.dart';
+import 'package:debaghy/app/config/style_manager.dart';
+import 'package:debaghy/app/config/values_manager.dart';
 import 'package:flutter/material.dart';
 
 class AppIconWigdet extends StatelessWidget {

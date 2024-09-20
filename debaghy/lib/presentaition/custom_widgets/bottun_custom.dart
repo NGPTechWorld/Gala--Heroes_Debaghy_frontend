@@ -1,6 +1,6 @@
-import 'package:debaghy/presentaition/utils/color_manager.dart';
-import 'package:debaghy/presentaition/utils/style_manager.dart';
-import 'package:debaghy/presentaition/utils/values_manager.dart';
+import 'package:debaghy/app/config/color_manager.dart';
+import 'package:debaghy/app/config/style_manager.dart';
+import 'package:debaghy/app/config/values_manager.dart';
 import 'package:flutter/material.dart';
 
 class BottouCustom extends StatelessWidget {

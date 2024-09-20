@@ -1,7 +1,7 @@
+import 'package:debaghy/app/config/color_manager.dart';
+import 'package:debaghy/app/config/values_manager.dart';
 import 'package:debaghy/presentaition/custom_widgets/app_icon_wigdet.dart';
 import 'package:debaghy/presentaition/pages/signup_page/signup_page.dart';
-import 'package:debaghy/presentaition/utils/color_manager.dart';
-import 'package:debaghy/presentaition/utils/values_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

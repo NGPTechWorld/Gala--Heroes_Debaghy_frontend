@@ -1,4 +1,4 @@
-import 'package:debaghy/presentaition/utils/color_manager.dart';
+import 'package:debaghy/app/config/color_manager.dart';
 import 'package:flutter/material.dart';
 
 class ThemeManager {
